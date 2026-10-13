@@ -101,3 +101,4 @@ img{max-width:100%}
   .brand{max-width:180px}.brand img{width:178px}.hero h1{font-size:42px}.hero-copy{left:18px;right:18px}.hero-contact{left:18px;right:18px}
   .bathroom-copy h2{font-size:39px}.visit-form{padding-inline:16px}.contact-stack a{font-size:20px}
 }
+.bot-field{position:absolute!important;left:-10000px!important;width:1px!important;height:1px!important;overflow:hidden!important}.button-accent:disabled{cursor:wait;opacity:.65}.form-status{min-height:22px;margin:12px 0 0;text-align:center;font-size:14px;line-height:1.5}.form-status.success{color:#27683f}.form-status.error{color:#a43c32}
